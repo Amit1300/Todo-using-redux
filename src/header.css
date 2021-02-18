@@ -1,0 +1,14 @@
+form{
+    display:flex;
+    flex-direction:column;
+    width:300px;
+    text-align: center;
+    margin-left:600px;
+    justify-content: space-evenly;
+}
+input[type="submit"]{
+    background-color: blue;
+    width:80px;
+    margin-left:100px;
+    margin-top:30px;
+}
